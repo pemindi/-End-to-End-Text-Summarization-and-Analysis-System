@@ -5,3 +5,5 @@ Implemented the backend using Python and Flask, integrating advanced NLP models.
 Designed and implemented the frontend with Flask, ensuring a user-friendly interface.
 Employed Google Colab and Jupyter Notebook environments for model training and experimentation.
 Managed data storage and model persistence using Pickle files for efficient performance.
+
+Link to Google Drive Folder  - https://drive.google.com/drive/folders/1USvtNnzXXMxJfxXELBBH40gL0f4hxS5p?usp=drive_link
